@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body {
+    background-color: brown;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+
+main {
+    background-color: rgb(73, 0, 0);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.412);
+}
+
+main label {
+    font-size: 1.5em;
+}
+
+main input {
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.348);
+    padding: 10px;
+    outline:rgb(10, 47, 69);
+    margin-bottom: 30px;
+}
+
+main input[type="button"] {
+    background-color: rgba(0, 0, 0, 0.509);
+    color: white;
+    margin-left: 20px;
+    box-shadow: 1px 1px 10px red;
+    cursor: pointer;
+    transition: 0.1s ease-in;
+}
+
+main input[type="button"]:active {
+    background-color: rgba(0, 0, 0, 0.868);
+    transition: 0.1s;
+}
+
+main select {
+    display: block;
+    width: 250px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.279);
+}
