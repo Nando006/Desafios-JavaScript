@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightcoral;
+}
+
+main {
+    background-color: white;
+    text-align: center;
+    border-radius: 30px;
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.344);
+}
+
+main h1 {
+    font-size: 3em;
+    color: rgb(54, 54, 54)
+}
+
+main #butoes {
+    padding: 20px;
+}
+
+main #butoes input {
+    margin-left: 20px;
+    cursor: pointer;
+}

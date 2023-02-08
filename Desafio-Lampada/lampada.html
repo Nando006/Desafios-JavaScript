@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <link rel="shortcut icon" href="favicon.ico">
+        <title>Desafio da Lâmpada</title>
+    </head>
+    <body>
+        <main>
+            <h1>Lâmpada 💡</h1>
+            <img src="img/desligada.jpg" alt="Lâmpada" id="lampada" ondblclick="quebrar()">
+            <div id="butoes">
+                <input type="button" value="Ligar" onclick="ligar()">
+                <input type="button" value="Desligar" onclick="desligar()">
+                <input type="button" value="Resetar" onclick="reset()">
+            </div>
+        </main>
+
+        <script src="script.js"></script>
+    </body>
+</html>
