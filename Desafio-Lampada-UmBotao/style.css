@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightslategray;
+}
+
+main {
+    background-color: white;
+    max-width: 450px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    margin: auto;
+}
