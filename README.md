@@ -5,3 +5,4 @@
 - <a href="https://nando006.github.io/Desafios-JavaScript/ex005-AnalisadorDeNumeros/ex005.html" target="_blank"><strong>Analisador de Números</strong></a>
 - <a href="https://nando006.github.io/Desafios-JavaScript/Desafio-Lampada/lampada.html" target="_blank"><strong>Lâmpada</strong></a>, <a href="https://nando006.github.io/Desafios-JavaScript/Desafio-Lampada-UmBotao/lampada.html" target="_blank"><strong>Lâmpada Com Um Button</strong></a>
 - <a href="https://nando006.github.io/Desafios-JavaScript/Desafio-Semaforo/semafaro.html" target="_blank"><strong>Semáforo</strong></a>, <a href="https://nando006.github.io/Desafios-JavaScript/Semaforo-OutroMetodo/" target="_blank"><strong>Semáforo Outro Método</strong></a>
+- <a href="https://nando006.github.io/Desafios-JavaScript/Slideshow/index.html" target="_blank"><strong>Slide Show</strong></a>
