@@ -69,6 +69,7 @@ h1 {
 
 .key:hover {
     border: 3px solid rgb(251, 203, 115);
+    transform: scale(1.3);
     transition: 0.3s;
 }
 
