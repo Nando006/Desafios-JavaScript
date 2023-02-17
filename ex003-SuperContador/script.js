@@ -20,10 +20,18 @@ function contar () {
         }
         res.innerHTML = ''
         res.innerHTML = '<strong>Começando Contagem</strong> 🤓<br><br>'
-        while(ini <= final) {
-            res.innerHTML += `${ini}🥂  `
-            ini += pass
+        if( ini <= final) {
+            while(ini <= final) {
+                res.innerHTML += `${ini}🥂  `
+                ini += pass
+            }
+        } else {
+            while(ini >= final) {
+                res.innerHTML += `${ini}🥂`
+                ini -= pass
+            }
         }
+        
         res.innerHTML += '<br><br> <strong>Contagem Encerrada</strong> 😎👍'
     }
 }
